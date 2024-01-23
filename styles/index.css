@@ -1,0 +1,45 @@
+.header {
+    color: aliceblue;
+    font-size: 75px;
+    text-align: center;
+}
+.container {
+    text-align: center;
+}
+.list-of-exercises {
+    display: inline-block;
+    color: black;
+    text-align: left;
+    font-size: 23px;
+}
+.day-of-week {
+    color : rgb(253, 254, 255);
+    text-align: center;
+    font-size: 45px;
+}
+
+.links{
+    color: aliceblue;
+    font-size: 25px;
+}
+.body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg,
+     rgba(2,0,36,1) 0%, 
+    rgba(209,162,205,1) 0%, 
+    rgba(0,212,255,1) 100%);;
+}
+
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 350px;
+    width: 350px;
+}
+.footer{
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    text-align: center;
+}
